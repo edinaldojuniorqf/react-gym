@@ -1,0 +1,8 @@
+{
+	"exercises": [
+		{ "id": "1", "category": "costas", "image": "/images/image1.png", "title": "Puxada frontal", "description": "3 séries x 12 repetições" },
+		{ "id": "2", "category": "costas", "image": "/images/image2.png", "title": "Remada curvada", "description": "3 séries x 12 repetições" },
+		{ "id": "3", "category": "biceps",  "image": "/images/image3.png", "title": "Remada unilateral", "description": "3 séries x 12 repetições" },
+		{ "id": "4", "category": "triceps",  "image": "/images/image4.png", "title": "Levantamento terra", "description": "3 séries x 12 repetições" }
+	]
+}
